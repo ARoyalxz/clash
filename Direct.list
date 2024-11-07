@@ -4,7 +4,7 @@
 # DOMAIN-KEYWORD,anthropic
 # DOMAIN-KEYWORD,Claude
 # 域名后缀匹配
-# DOMAIN-SUFFIX,srv.nintendo.net
+DOMAIN-SUFFIX,srv.nintendo.net
 DOMAIN-SUFFIX,d4c.nintendo.net
-# DOMAIN-SUFFIX,cdn.nintendo.net
+DOMAIN-SUFFIX,cdn.nintendo.net
 # DOMAIN-SUFFIX,dragons.nintendo.net
